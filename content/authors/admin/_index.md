@@ -10,9 +10,9 @@ authors:
   - admin
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multistep synthesis
+  - Photochemistry
+  - Spectroscopy
 social:
   - icon: envelope
     icon_pack: fas
